@@ -1,7 +1,11 @@
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/169055147/430615671-61ff7edf-22e2-44bb-a6c8-3c15b8b81775.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NTMzMTYsIm5iZiI6MTc0Mzg1MzAxNiwicGF0aCI6Ii8xNjkwNTUxNDcvNDMwNjE1NjcxLTYxZmY3ZWRmLTIyZTItNDRiYi1hNmM4LTNjMTViOGI4MTc3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQxMTM2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OWJiZDliZDZjZDg2NmNlNWNiNThiYTdiZGE0YjM1YWJkNDBkZGRiY2ZmOWEwMTUxMTc3NzFiNTg0MDJhNTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G4yeLet6Pcp12BYMFtrZvVICtFaXtn6NA88S_Wug1mg" alt="Animated Header" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF00FF&center=true&vCenter=true&width=800&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;Anime+Fan+&+Code+Master" alt="Typing SVG">
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF00FF&center=false&vCenter=true&width=600&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;&+Code+Master" alt="Typing SVG">
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://private-user-images.githubusercontent.com/169055147/430615671-61ff7edf-22e2-44bb-a6c8-3c15b8b81775.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NTMzMTYsIm5iZiI6MTc0Mzg1MzAxNiwicGF0aCI6Ii8xNjkwNTUxNDcvNDMwNjE1NjcxLTYxZmY3ZWRmLTIyZTItNDRiYi1hNmM4LTNjMTViOGI4MTc3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQxMTM2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OWJiZDliZDZjZDg2NmNlNWNiNThiYTdiZGE0YjM1YWJkNDBkZGRiY2ZmOWEwMTUxMTc3NzFiNTg0MDJhNTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G4yeLet6Pcp12BYMFtrZvVICtFaXtn6NA88S_Wug1mg" alt="Header Banner" width="300">
+  </div>
+</div>
 
 # 🌟 Welcome to My World! I’m Abdelrahman Mahmoud 🚀
 
@@ -15,9 +19,7 @@ I’m **Abdelrahman Mahmoud Anwar Abdulaziz**, a 17-year-old Software Developmen
 - 📧 **Email**: [bm9412238@gmail.com](mailto:bm9412238@gmail.com)
 - 🌐 **Portfolio**: [abdulrahman-portfolio.netlify.app](https://abdulrahman-portfolio.netlify.app)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0IylOPCNkiqKlyPu/giphy.gif" alt="Anime Coding" width="400">
-</p>
+
 
 ---
 
@@ -40,9 +42,7 @@ I’m armed to the teeth with tools and skills to dominate any project!
 ### Concepts
 - **OOP & SOLID** | **Data Structures & Algorithms** | **Design Patterns** | **Clean Architecture** | **RESTful APIs** | **Dependency Injection** | **Agile & Scrum**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPCXdkTTsK5XY1a/giphy.gif" alt="Tech Animation" width="300">
-</p>
+
 
 ---
 
@@ -66,9 +66,6 @@ I’m armed to the teeth with tools and skills to dominate any project!
 - **English**:  
   - Listening: B2 | Reading: B2 | Speaking: B1 | Writing: C1
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6MLAK8Q5tCLDi/giphy.gif" alt="Anime Power" width="350">
-</p>
 
 ---
 
@@ -148,9 +145,7 @@ Building a responsive, user-friendly platform for a health-focused org, collabor
 - **Sports**: Handball player—teamwork and strategy are my jam!  
 - **Anime**: *Naruto* and *Attack on Titan* fuel my creativity.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcxWC/giphy.gif" alt="Fun Animation" width="350">
-</p>
+
 
 ---
 
