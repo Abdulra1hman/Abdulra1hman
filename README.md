@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/169055147/430615671-61ff7edf-22e2-44bb-a6c8-3c15b8b81775.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NTMzMTYsIm5iZiI6MTc0Mzg1MzAxNiwicGF0aCI6Ii8xNjkwNTUxNDcvNDMwNjE1NjcxLTYxZmY3ZWRmLTIyZTItNDRiYi1hNmM4LTNjMTViOGI4MTc3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQxMTM2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OWJiZDliZDZjZDg2NmNlNWNiNThiYTdiZGE0YjM1YWJkNDBkZGRiY2ZmOWEwMTUxMTc3NzFiNTg0MDJhNTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G4yeLet6Pcp12BYMFtrZvVICtFaXtn6NA88S_Wug1mg" alt="Profile Image" width="300" align="right" style="border-radius: 50%; border: 5px solid #ff00ff; margin-left: 20px;">
-
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/169055147/430615671-61ff7edf-22e2-44bb-a6c8-3c15b8b81775.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM4NTMzMTYsIm5iZiI6MTc0Mzg1MzAxNiwicGF0aCI6Ii8xNjkwNTUxNDcvNDMwNjE1NjcxLTYxZmY3ZWRmLTIyZTItNDRiYi1hNmM4LTNjMTViOGI4MTc3NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNVQxMTM2NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02OWJiZDliZDZjZDg2NmNlNWNiNThiYTdiZGE0YjM1YWJkNDBkZGRiY2ZmOWEwMTUxMTc3NzFiNTg0MDJhNTYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.G4yeLet6Pcp12BYMFtrZvVICtFaXtn6NA88S_Wug1mg" alt="Animated Header" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF00FF&center=true&vCenter=true&width=800&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;Anime+Fan+&+Code+Master" alt="Typing SVG">
-
-  <br><br>
+</p>
 
 # 🌟 Welcome to My World! I’m Abdelrahman Mahmoud 🚀
 
