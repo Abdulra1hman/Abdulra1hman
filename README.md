@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcxWC/giphy.gif" alt="Animated Header" width="100%">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF00FF¢er=true&vCenter=true&width=800&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;Anime+Fan+&+Code+Master" alt="Typing SVG">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Animated Header" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=00FF00¢er=true&vCenter=true&width=800&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;Anime+Fan+&+Code+Master" alt="Typing SVG">
 </p>
 
 # 🌟 Welcome to My World! I’m Abdelrahman Mahmoud 🚀
@@ -8,7 +8,7 @@
 ---
 
 ## ✨ Who Am I?
-I’m **Abdelrahman Mahmoud Anwar Abdulaziz**, a 17-year-old Software Development student from Cairo, Egypt 🇪🇬, born on December 19, 2007. I’m a front-end wizard with over 3 years of experience, a problem-solving ninja, and an anime-loving tech enthusiast. I live to craft dynamic, user-friendly web interfaces and scalable systems that make an impact. Based in Omraniya, Haram, Giza, Egypt, I’m here to build the future—one line of code at a time!
+I’m **Abdelrahman Mahmoud Anwar Abdulaziz**, a 17-year-old Software Development student from Cairo, Egypt 🇪🇬, born on December 19, 2007. I’m a front-end wizard with over 3 years of experience, a problem-solving ninja, and an anime-loving tech enthusiast. Based in Omraniya, Haram, Giza, Egypt, I’m here to build the future—one line of code at a time!
 
 - 🎯 **Mission**: Deliver cutting-edge software solutions that wow users and clients alike.
 - 💬 **Motto**: "Code is my jutsu—watch me unleash its power!"
@@ -16,7 +16,7 @@ I’m **Abdelrahman Mahmoud Anwar Abdulaziz**, a 17-year-old Software Developmen
 - 🌐 **Portfolio**: [abdulrahman-portfolio.netlify.app](https://abdulrahman-portfolio.netlify.app)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0IylOPCNkiqKlyPu/giphy.gif" alt="Anime Coding" width="400">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Anime Coding" width="400">
 </p>
 
 ---
@@ -41,7 +41,7 @@ I’m armed to the teeth with tools and skills to dominate any project!
 - **OOP & SOLID** | **Data Structures & Algorithms** | **Design Patterns** | **Clean Architecture** | **RESTful APIs** | **Dependency Injection** | **Agile & Scrum**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPCXdkTTsK5XY1a/giphy.gif" alt="Tech Animation" width="300">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Tech Animation" width="300">
 </p>
 
 ---
@@ -67,7 +67,7 @@ I’m armed to the teeth with tools and skills to dominate any project!
   - Listening: B2 | Reading: B2 | Speaking: B1 | Writing: C1
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6MLAK8Q5tCLDi/giphy.gif" alt="Anime Power" width="350">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Anime Power" width="350">
 </p>
 
 ---
@@ -115,7 +115,7 @@ Building a responsive, user-friendly platform for a health-focused org, collabor
 - **Other**: Software Testing, SDLC (Agile), Git, Problem Solving
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" alt="Social Animation" width="300">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Social Animation" width="300">
 </p>
 
 ---
@@ -149,7 +149,7 @@ Building a responsive, user-friendly platform for a health-focused org, collabor
 - **Anime**: *Naruto* and *Attack on Titan* fuel my creativity.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcxWC/giphy.gif" alt="Fun Animation" width="350">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Fun Animation" width="350">
 </p>
 
 ---
@@ -158,7 +158,7 @@ Building a responsive, user-friendly platform for a health-focused org, collabor
 I’m a driven developer open to freelance gigs, collabs, and challenges. Got a project? Let’s make it legendary!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="Collab Animation" width="400">
+  <img src="https://media.tenor.com/5mVz4hN7b7IAAAAC/anime-laptop.gif" alt="Collab Animation" width="400">
 </p>
 
 ---
