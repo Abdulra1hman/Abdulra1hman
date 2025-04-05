@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWR0djc3a2l2NnRlZGtlNHd2Zm9naXlyc2Y2a2p4Znh1OGtiZnhmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmYxYzQ5MDVjYzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ5YzQ&z=5&ct=g/3o7TKz9bHaOARXHcFW/giphy.gif" alt="Animated Header" width="100%">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF00FF&center=true&vCenter=true&width=800&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;Anime+Fan+&+Code+Master" alt="Typing SVG">
 </p>
 
