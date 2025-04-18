@@ -16,7 +16,7 @@ I’m **Abdelrahman Mahmoud Anwar Abdulaziz**, a 17-year-old Software Developmen
 - 🎯 **Mission**: Deliver cutting-edge software solutions that wow users and clients alike.
 - 💬 **Motto**: "Code is my jutsu—watch me unleash its power!"
 - 📧 **Email**: [bm9412238@gmail.com](mailto:bm9412238@gmail.com)
-- 🌐 **Portfolio**: [abdulrahman-portfolio.netlify.app](https://abdulrahman-portfolio.netlify.app)
+- 🌐 **Portfolio**: [abdulrahman-portfolio.netlify.app](https://abdulrahm1an-portfolio.netlify.app)
 
 
 
@@ -73,7 +73,7 @@ I’m armed to the teeth with tools and skills to dominate any project!
 A full-featured website showcasing innovative communication tools with real-time support and seamless registration.  
 *Tech*: ASP.NET, HTML, CSS, JavaScript
 
-### [Personal Portfolio](https://abdulrahman-portfolio.netlify.app)  
+### [Personal Portfolio](https://abdulrahm1an-portfolio.netlify.app)  
 My sleek portfolio highlighting my skills, experience, and projects.  
 *Tech*: HTML, CSS, JavaScript, React
 
